@@ -67,7 +67,8 @@ Full definitions are in `docs/metrics_definitions.md`. The three that matter mos
 
 ### 6.1 Portfolio overview
 
-![Overview page](images/page1_overview.png)
+<img width="1439" height="813" alt="Screenshot 2026-10-31 085125" src="https://github.com/user-attachments/assets/4fcc879c-bf81-4f36-ac34-d5343ee7eb93" />
+
 
 - Only 8.07% of applicants defaulted (24,825 of 307,511). At that imbalance, accuracy is a useless model metric, so the scorecard will be judged on KS, Gini and PSI.
 - About 92% of instalments were paid on time or early. Late instalments are concentrated in the 1-30 day bucket, and the 31-60, 61-90 and 90+ buckets together hold well under 1% of instalments.
@@ -75,7 +76,8 @@ Full definitions are in `docs/metrics_definitions.md`. The three that matter mos
 
 ### 6.2 Vintage analysis
 
-![Vintage page](images/page2_vintage.png)
+<img width="1469" height="845" alt="Screenshot 2026-10-31 092430" src="https://github.com/user-attachments/assets/b03d0f2a-f8cd-4cc2-93dd-3d31104e2ed5" />
+
 
 - Delinquency accumulates with loan age in every cohort.
 - At 12 months, cumulative 30+ day delinquency is 0.67% for the cohort originated one year before the reference date (Y-1), rising to 1.22% (Y-2), 1.81% (Y-3), 2.56% (Y-4) and 5.45% (Y-5). It then falls to 4.14% (Y-6), 3.84% (Y-7) and 3.02% (Y-8).
@@ -83,7 +85,8 @@ Full definitions are in `docs/metrics_definitions.md`. The three that matter mos
 
 ### 6.3 Borrower risk profile
 
-![Borrower page](images/page3_borrowers.png)
+<img width="1434" height="813" alt="Screenshot 2026-10-31 092539" src="https://github.com/user-attachments/assets/b03bdeb8-8d79-4acd-873b-7a779825f490" />
+
 
 - **Education:** default falls as education rises: 10.93% (lower secondary), 8.94% (secondary), 8.48% (incomplete higher), 5.36% (higher education), 1.83% (academic degree).
 - **Family status:** civil marriage (9.94%) and single (9.81%) sit above married (7.56%) and widow (5.82%).
