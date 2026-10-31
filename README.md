@@ -24,7 +24,7 @@ A lender running a loan book needs three answers, and the dashboard has one page
 | Cumulative 30+ day delinquency at month 12 | 0.67% (cohort Y-1) up to 5.45% (cohort Y-5) |
 | Default rate by education | 10.93% (lower secondary) to 1.83% (academic degree) |
 
-Read the findings in context in [`docs/report.md`](docs/report.md).
+Read the findings in context in [`docs/report.md`](PowerBI_Report.md).
 
 ## Architecture
 
