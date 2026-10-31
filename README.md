@@ -80,8 +80,8 @@ If the vintage view is slow on your machine, add indexes on `sk_id_prev` for `in
 
 ## Documentation
 
-- [`docs/metrics_definitions.md`](docs/metrics_definitions.md): how DPD, PAR, vintage and utilization are calculated, and what each one cannot tell you.
-- [`docs/report.md`](docs/report.md): the full write-up of the data, method and findings.
+- [metrics_definitions.md](metrics_definitions.md): how DPD, PAR, vintage and utilization are calculated, and what each one cannot tell you.
+- [PowerBI_Report.md](PowerBI_Report.md): the full write-up of the data, method and findings.
 
 ## Limitations
 
