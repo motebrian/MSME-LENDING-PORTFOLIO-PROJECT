@@ -61,7 +61,7 @@ flowchart LR
 │   └── metrics/       01_par_dpd, 02_vintage_cohort, 03_vintage_curve_view
 ├── notebooks/         01_eda.ipynb
 ├── dashboards/        Power BI file and screenshots
-├── docs/              metrics_definitions.md, report.md
+├── docs/              metrics_definitions.md,data_Quality.md, PowerBI_Report.md
 └── .env.example       database settings template
 ```
 
