@@ -99,8 +99,8 @@ If the vintage view is slow on your machine, add indexes on `sk_id_prev` for `in
 - [x] Power BI dashboard (overview, vintage, borrower profile)
 - [ ] Risk watchlist page
 - [ ] Sample weekly and monthly lender reports
-- [ ] Borrower segmentation (RFM and k-means)
-- [ ] Data quality checks tested against injected errors
+- [x] Borrower segmentation (RFM and k-means)
+- [x] Data quality checks tested against injected errors
 - [ ] Scorecard prototype (WoE binning, logistic regression versus gradient boosting, KS/Gini/PSI)
 - [ ] Data dictionary and SQL snippet library
 
