@@ -1,0 +1,8 @@
+Metric,Value
+Number of predictors,27.0
+ROC-AUC,0.7563918956270959
+Gini coefficient,0.5127837912541917
+Brier score,0.06805455034464034
+KS statistic,0.38434923697550055
+Test applicants,61503.0
+Test default rate,0.08072776937710356
