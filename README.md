@@ -98,10 +98,10 @@ If the vintage view is slow on your machine, add indexes on `sk_id_prev` for `in
 - [x] Metrics definitions and EDA notebook
 - [x] Power BI dashboard (overview, vintage, borrower profile)
 - [ ] Risk watchlist page
-- [ ] Sample weekly and monthly lender reports
+- [x] Sample weekly and monthly lender reports
 - [x] Borrower segmentation (RFM and k-means)
 - [x] Data quality checks tested against injected errors
-- [ ] Scorecard prototype (WoE binning, logistic regression versus gradient boosting, KS/Gini/PSI)
+- [x] Scorecard prototype (WoE binning, logistic regression, AUC, Gini, KS, calibration and score bands)
 - [ ] Data dictionary and SQL snippet library
 
 ## Author
